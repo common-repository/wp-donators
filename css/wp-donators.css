@@ -1,0 +1,41 @@
+.ui-progressbar-value { background-image: url(images/pbar-ani.gif); }
+.sponsor_form label { display:block; }
+.sponsor_form input.text { margin-bottom:12px; width:95%; }
+
+.dialog_link {
+	padding: 1px 4px 1px 16px;
+	text-decoration: none;
+	position: relative;
+}
+
+.dialog_link span.ui-icon{
+	margin: 0 2px 0 0;
+	position: absolute;
+	left: .2em;
+	top: 50%;
+	margin-top: -8px;
+}
+
+.sponsor_box {
+	float:left;
+	position:relative;
+	width:100%;
+} 
+
+.sponsor_box{
+	display:block;
+} 
+
+.sponsor_mask {
+	position:absolute;
+	font-size:8px;
+	bottom:2px;
+	height:10px;
+	right:2px;
+	overflow:hidden;
+} 
+
+.dialog_mask {
+	font-size:8px;
+	text-align : center;
+}

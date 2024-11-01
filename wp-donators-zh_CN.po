@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-donators\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-27 09:40+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ERIC WANG <eric.wzy@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: main.php:58
+msgid "Sponsors"
+msgstr "赞助商"
+
+#: main.php:61
+msgid "Option"
+msgstr "选项"
+
+#: main.php:62
+msgid "IPN Log"
+msgstr "IPN日志"
+
+#: payment-manager.php:10
+#: report.php:8
+msgid "Configuration"
+msgstr "配制"
+
+#: payment-manager.php:14
+#: report.php:12
+msgid "You are not Options Manager &amp; hence you cannot configure <strong>WP-DONATORS</strong>. If you are admin, then please Logout &amp; Login again."
+msgstr "你不是管理员 &amp; 所以你不能配制<strong>WP-DONATORS</strong>。 如果你是管理员,请登出&amp; 再登入。"
+
+#: payment-manager.php:19
+msgid "Access Denied"
+msgstr "帐号被拒绝"
+
+#: payment-manager.php:111
+msgid "WP-Donators-Configuration"
+msgstr "WP-Donators-设置"
+
+#: payment-manager.php:117
+msgid "You can configure <strong>WP-Donators</strong> here. It's easy to configure payment setting.<br/>Since the plugin is developing, in the future it will support more payment features and most popular payment interface.<br/>If you find this plugin really useful and would like to contribute to the further development of this plugin, please do donate.All donators will get a link on the <strong><a href=\"http://www.ericbess.com/ericblog/?p=258\">WP-Donators Page</a></strong> and its daily 200 - 500 unique visitors."
+msgstr "你可以在此设置 <strong>WP-Donators</strong>，这边可以方便的设置您的帐务信息。由于这个插件正在持续开发中，在将来，它将支持更多的支付功能与更多的支付平台。<br/>如果您觉得本插件真的有用并愿意为本插件的发展提供支持，请考虑提供捐赠。同时,所有捐赠者都可以在本插件主页<strong><a href=\"http://www.ericbess.com/ericblog/?p=258\">WP-Donators Page</a></strong>留下捐赠者信息，此页有200~500日独立IP访问量。"
+
+#: payment-manager.php:154
+msgid "System Depend On"
+msgstr "支持条件"
+
+#: payment-manager.php:169
+msgid "fsockopen PayPal connection success!"
+msgstr "fsockopen 连接 PayPal网关测试成功!"
+
+#: payment-manager.php:176
+msgid "General Option"
+msgstr "基本选项"
+
+#: payment-manager.php:185
+msgid "Admin Email."
+msgstr "管理员Email。"
+
+#: payment-manager.php:188
+msgid "WP-DONATIONS administrator email,System payment status log receiver mail."
+msgstr "WP-DONATIONS管理员Email,系统收入情况日志实时接收邮箱。"
+
+#: payment-manager.php:196
+msgid "Send payment log to admin."
+msgstr "发送收入日志给管理员。"
+
+#: payment-manager.php:199
+msgid "When the payment happened, send the status log to admin mailbox."
+msgstr "当支付发生，立即发送日志给管理员邮箱。"
+
+#: payment-manager.php:205
+msgid "Your PayPal Account"
+msgstr "PayPal帐号"
+
+#: payment-manager.php:215
+msgid "PayPal Account Mail."
+msgstr "PayPal帐号邮件。"
+
+#: payment-manager.php:218
+msgid "Your PayPal Account(mail address).If your haven't the paypal account so far.Please register paypal account here:"
+msgstr "你的PayPal帐号（email地址）。如果目前你没有PayPal帐号，请在此注册。"
+
+#: payment-manager.php:221
+msgid "PayPal Registration"
+msgstr "注册PayPal"
+
+#: payment-manager.php:228
+msgid "Use PayPal Sandbox."
+msgstr "使用PayPal沙盒。"
+
+#: payment-manager.php:231
+msgid "It's sandbox account. You can apply a suit of sandbox accounts on <a href=\"https://developer.paypal.com/\" target=\"_blank\">Developer.PayPal</a> to test the plugin."
+msgstr "这是个沙盒测试帐号。你可以应用一组沙盒帐号在 <a href=\"https://developer.paypal.com/\" target=\"_blank\">Developer.PayPal</a>上去测试这个插件。"
+
+#: payment-manager.php:236
+msgid "CNY(RMB) Account."
+msgstr "人民币帐号。"
+
+#: payment-manager.php:239
+msgid "China PayPal Registration"
+msgstr "贝宝（China）注册"
+
+#: payment-manager.php:240
+msgid "CHINA ACCOUNT, for CNYang(RMB) receive.<br/>If you havn't, please consider this opportunity to be donated to author(Keep Blank)."
+msgstr "人民币收款帐号。如果你没有，可以考虑把机会留给作者（留空）。"
+
+#: payment-manager.php:245
+#: payment-manager.php:247
+#: payment-manager.php:249
+#: payment-manager.php:251
+#: payment-manager.php:253
+#: payment-manager.php:255
+#: payment-manager.php:257
+#: payment-manager.php:259
+#: payment-manager.php:261
+#: payment-manager.php:263
+#: payment-manager.php:265
+#: payment-manager.php:267
+#: payment-manager.php:269
+#: payment-manager.php:271
+#: payment-manager.php:273
+#: payment-manager.php:275
+#: payment-manager.php:277
+#: payment-manager.php:279
+#: payment-manager.php:281
+#: payment-manager.php:283
+msgid " selected"
+msgstr "选择"
+
+#: payment-manager.php:245
+msgid "U.S. Dollars"
+msgstr "美元"
+
+#: payment-manager.php:247
+msgid "Australian Dollars"
+msgstr "澳元"
+
+#: payment-manager.php:249
+msgid "British Pounds"
+msgstr "英镑"
+
+#: payment-manager.php:251
+msgid "Canadian Dollars"
+msgstr "加元"
+
+#: payment-manager.php:253
+msgid "Czech Koruna"
+msgstr "捷克克朗"
+
+#: payment-manager.php:255
+msgid "Danish Kroner"
+msgstr "丹麦克朗"
+
+#: payment-manager.php:257
+msgid "Euro"
+msgstr "欧元"
+
+#: payment-manager.php:259
+msgid "Hong Kong Dollars"
+msgstr "港币"
+
+#: payment-manager.php:261
+msgid "Hungarian Forint"
+msgstr "匈牙利福林"
+
+#: payment-manager.php:263
+msgid "Japanese Yen"
+msgstr "日元"
+
+#: payment-manager.php:265
+msgid "Mexican Peso"
+msgstr "墨西哥比索"
+
+#: payment-manager.php:267
+msgid "New Zealand Dollars"
+msgstr "新西兰元"
+
+#: payment-manager.php:269
+msgid "Norwegian Kroner"
+msgstr "挪威克朗"
+
+#: payment-manager.php:271
+msgid "Polish Zlotych"
+msgstr "波兰兹罗提"
+
+#: payment-manager.php:273
+msgid "Singapore Dollars"
+msgstr "新加坡元"
+
+#: payment-manager.php:275
+msgid "Swedish Kronor"
+msgstr "瑞典克郎"
+
+#: payment-manager.php:277
+msgid "Swiss Franc"
+msgstr "瑞士法郎"
+
+#: payment-manager.php:279
+msgid "Taiwan Dollar"
+msgstr "新台币"
+
+#: payment-manager.php:281
+msgid "Thai Baht"
+msgstr "泰铢"
+
+#: payment-manager.php:283
+msgid "Philippine Peso"
+msgstr "菲律宾比索"
+
+#: payment-manager.php:284
+msgid "Primary Currency."
+msgstr "主要货币（本币）"
+
+#: payment-manager.php:285
+msgid "Let you receive money, without opening a currency balance."
+msgstr "让你不用开启多币帐号，就可以通过换汇成本币收帐。"
+
+#: payment-manager.php:288
+msgid "Learn More"
+msgstr "了解细节"
+
+#: payment-manager.php:296
+msgid "Sponsor Option"
+msgstr "赞助商选项"
+
+#: payment-manager.php:305
+msgid "Minimum amount for a donation."
+msgstr "最小捐赠额。"
+
+#: payment-manager.php:308
+msgid "The minimum amount for a donation to get displayed.Set to a reasonable value for your currency and your website."
+msgstr "设置最少可以显示赞助商信息金额，请根据您的本币和网站情况合理设置。"
+
+#: payment-manager.php:314
+msgid "Sponsor link days."
+msgstr "赞助商链天数。"
+
+#: payment-manager.php:317
+msgid "How many days will a link be displayed."
+msgstr "赞助商链将持续显示天数。"
+
+#: payment-manager.php:326
+msgid "LinkSize_Function."
+msgstr "广告字体尺寸函数。"
+
+#: payment-manager.php:329
+msgid "This function calculates the link size in relation to the donation amount $x.It ensures that donations are not too tiny or large.Use it with the syntax of a PHP expression."
+msgstr "基于捐款额$x设定字体大小算法，请确保字体不要太小或太大。语法基于PHP。"
+
+#: payment-manager.php:335
+msgid "Sponsor link text size (max 64)."
+msgstr "广告词长度（最大64）。"
+
+#: payment-manager.php:338
+msgid "The maximum Sponsor link text words size."
+msgstr "赞助商链广告词最大长度（最大64）。"
+
+#: payment-manager.php:348
+msgid "Nofollow Link."
+msgstr "Nofollow选项。"
+
+#: payment-manager.php:351
+msgid "If you are afraid of Google punishment, set this to \"checked\",if you apprechiate donations, do not."
+msgstr "不选中能让您的赞助商信息被搜索引擎检索，但可能让您的网页排名下降。"
+
+#: payment-manager.php:359
+msgid "Image Promotion"
+msgstr "图片推销"
+
+#: payment-manager.php:366
+msgid "Text Promotion"
+msgstr "文字推销"
+
+#: payment-manager.php:369
+msgid "Recommend people to register paypal account on your payment form.It will promote your earning."
+msgstr "在您的支付表单上鼓励用户注册PayPal，它将促进您的收入。"
+
+#: payment-manager.php:377
+msgid "Text AD Link Option"
+msgstr "文字广告链选项"
+
+#: payment-manager.php:386
+msgid "Unit Price."
+msgstr "单价。"
+
+#: payment-manager.php:389
+msgid "Default Text AD link unit price."
+msgstr "默认文字广告链单价。"
+
+#: payment-manager.php:395
+msgid "Display days /unit."
+msgstr "每单元展示天数。"
+
+#: payment-manager.php:398
+msgid "Default Text AD link display days per unit."
+msgstr "默认每单元文字广告链展示天数。"
+
+#: payment-manager.php:406
+msgid "My Target Option"
+msgstr "My Target选项"
+
+#: payment-manager.php:415
+msgid "My Target Price."
+msgstr "My Target所需金额"
+
+#: payment-manager.php:418
+msgid "Default My Target price."
+msgstr "My Target默认所需金额。"
+
+#: payment-manager.php:426
+msgid "Configuration Complete"
+msgstr "完成设置"
+
+#: payment-manager.php:430
+msgid "Update Options"
+msgstr "更新选项"
+
+#: payment-manager.php:433
+msgid "Reset"
+msgstr "重设"
+
+#: report.php:20
+msgid "IPN LOG"
+msgstr "IPN日志"
+
+#: report.php:27
+msgid "NO LOG So Far"
+msgstr "目前为止没有日志"
+
+#: sponsor.php:14
+msgid "The Page SPONSORED BY"
+msgstr "本页赞助者"
+
+#: sponsor.php:15
+msgid "Become SPONSOR Now"
+msgstr "成为赞助商"
+
+#: sponsor.php:20
+msgid "SPONSORED"
+msgstr "赞助商"
+
+#: sponsor.php:21
+#: wp-donators.php:77
+msgid "Donate"
+msgstr "捐赠"
+
+#: sponsor.php:34
+msgid "HELP"
+msgstr "帮肋"
+
+#: sponsor.php:36
+msgid "This a wordpress plugin"
+msgstr "这是一个WORDPRESS插件"
+
+#: sponsor.php:36
+msgid "It provides a smart donation function to autoleave the sponsor information in this container after payment. People can donate and submit name/URL or TextLink AD. The information of the latest donors are displayed in the cloud. The more a person donates, the bigger their link will be.It's will support most popular payment interface in future. ParPal Just the first one."
+msgstr "可以支持多币种捐赠并实现自动汇率换算。与其他捐赠按钮不同，它的后台进程与PAYPAL API实时沟通，PayPal返回付款数据，然后WP-Donators把捐赠人指定的广告词与连接放在“捐赠人云”中展示出来。越多捐助，越大字体显示。它将来支持更多的支付及展示功能与更多的支付平台。PayPal是第一个支持的支付平台。"
+
+#: sponsor.php:60
+msgid "Buy This Text ADs Link!"
+msgstr "购买这个广告链！"
+
+#: sponsor.php:66
+msgid "Your AD Link Name"
+msgstr "你的广告链名"
+
+#: sponsor.php:67
+msgid "Your AD Link URL"
+msgstr "您的网址"
+
+#: sponsor.php:68
+msgid "Your AD Description"
+msgstr "你的广告描述"
+
+#: sponsor.php:69
+#: sponsor.php:298
+msgid "Amount"
+msgstr "金额"
+
+#: sponsor.php:72
+#: sponsor.php:159
+#: sponsor.php:301
+msgid "USD"
+msgstr "美元"
+
+#: sponsor.php:73
+#: sponsor.php:93
+#: sponsor.php:179
+#: sponsor.php:321
+msgid "RMB"
+msgstr "人民币"
+
+#: sponsor.php:74
+#: sponsor.php:160
+#: sponsor.php:302
+msgid "AUD"
+msgstr "澳元"
+
+#: sponsor.php:75
+#: sponsor.php:161
+#: sponsor.php:303
+msgid "GBP"
+msgstr "英镑"
+
+#: sponsor.php:76
+#: sponsor.php:162
+#: sponsor.php:304
+msgid "CAD"
+msgstr "加元"
+
+#: sponsor.php:77
+#: sponsor.php:163
+#: sponsor.php:305
+msgid "CZK"
+msgstr "捷克克朗"
+
+#: sponsor.php:78
+#: sponsor.php:164
+#: sponsor.php:306
+msgid "DKK"
+msgstr "丹麦克朗"
+
+#: sponsor.php:79
+#: sponsor.php:165
+#: sponsor.php:307
+msgid "EUR"
+msgstr "欧元"
+
+#: sponsor.php:80
+#: sponsor.php:166
+#: sponsor.php:308
+msgid "HKD"
+msgstr "港币"
+
+#: sponsor.php:81
+#: sponsor.php:167
+#: sponsor.php:309
+msgid "HUF"
+msgstr "匈牙利福林"
+
+#: sponsor.php:82
+#: sponsor.php:168
+#: sponsor.php:310
+msgid "JPY"
+msgstr "日元"
+
+#: sponsor.php:83
+#: sponsor.php:169
+#: sponsor.php:311
+msgid "MXN"
+msgstr "墨西哥比索"
+
+#: sponsor.php:84
+#: sponsor.php:170
+#: sponsor.php:312
+msgid "NZD"
+msgstr "新西兰元"
+
+#: sponsor.php:85
+#: sponsor.php:171
+#: sponsor.php:313
+msgid "NOK"
+msgstr "挪威克朗"
+
+#: sponsor.php:86
+#: sponsor.php:172
+#: sponsor.php:314
+msgid "PLN"
+msgstr "波兰兹罗提"
+
+#: sponsor.php:87
+#: sponsor.php:173
+#: sponsor.php:315
+msgid "SGD"
+msgstr "新加坡元"
+
+#: sponsor.php:88
+#: sponsor.php:174
+#: sponsor.php:316
+msgid "SEK"
+msgstr "瑞典克郎"
+
+#: sponsor.php:89
+#: sponsor.php:175
+#: sponsor.php:317
+msgid "CHF"
+msgstr "瑞士法郎"
+
+#: sponsor.php:90
+#: sponsor.php:176
+#: sponsor.php:318
+msgid "TWD"
+msgstr "新台币"
+
+#: sponsor.php:91
+#: sponsor.php:177
+#: sponsor.php:319
+msgid "THB"
+msgstr "泰铢"
+
+#: sponsor.php:92
+#: sponsor.php:178
+#: sponsor.php:320
+msgid "PHP"
+msgstr "菲律宾比索"
+
+#: sponsor.php:108
+msgid "dollars"
+msgstr "元"
+
+#: sponsor.php:108
+msgid "days"
+msgstr "天"
+
+#: sponsor.php:109
+#: sponsor.php:337
+msgid "Fill out the form, click \"PayPal\" button, you're on your way!"
+msgstr "填写表单，按“PayPal”进行支付！"
+
+#: sponsor.php:151
+msgid "Name Or TextAds:"
+msgstr "赞助商或广告词："
+
+#: sponsor.php:153
+msgid "Your URL:"
+msgstr "您的网址："
+
+#: sponsor.php:155
+msgid "Amount:"
+msgstr "金额："
+
+#: sponsor.php:197
+msgid " dollar donations or more will appear in the Sponsored cloud. More donations, bigger Link!There is the option of having your name link to a site of your choosing. Simply fill out the form, click the PayPal button and you're on your way!"
+msgstr "元或以上的捐赠将显示在赞助商云中！越多捐赠，越大字体显示！你可以输入您希望显示的广告词或赞助商名以及连接。按PayPal键，付款后，您的输入将马上显现出来！"
+
+#: sponsor.php:240
+msgid "No donations within the last "
+msgstr "在最近的"
+
+#: sponsor.php:240
+msgid " days.Who make donation will leave message at here."
+msgstr "天里没有捐赠者。捐赠者将在此留下他定制的信息。"
+
+#: sponsor.php:240
+msgid "Donate Now"
+msgstr "现在捐赠"
+
+#: sponsor.php:265
+msgid "No Text AD Link within the last days, you can buy the advertising link!"
+msgstr "最近没有文字广告，你可以购买文字广告链! "
+
+#: sponsor.php:266
+msgid "Buy The AD link"
+msgstr "购买这个广告链"
+
+#: sponsor.php:288
+msgid "Support This Target!"
+msgstr "支持我的目标！"
+
+#: sponsor.php:295
+msgid "Sponsor Name"
+msgstr "赞助商"
+
+#: sponsor.php:296
+msgid "Sponsor URL"
+msgstr "赞助商网址"
+
+#: sponsor.php:297
+msgid "Sponsor Comment"
+msgstr "赞助商留言"
+
+#: sponsor.php:336
+msgid "(My Target"
+msgstr "（我的目标"
+
+#: sponsor.php:336
+msgid " dollars/"
+msgstr "元/"
+
+#: sponsor.php:336
+#, php-format
+msgid "% completed)"
+msgstr "%完成）"
+
+#: sponsor.php:363
+msgid "Support My Target ("
+msgstr "支持我的目标（"
+
+#: sponsor.php:363
+msgid " Dollars Needed/"
+msgstr "元需要/"
+
+#: sponsor.php:363
+msgid "% Completed)"
+msgstr "%完成）"
+
+#: wp-donators.php:67
+msgid "Settings"
+msgstr "设置"
+
+#~ msgid "Y/m/d"
+#~ msgstr "年/月/日"
+

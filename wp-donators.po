@@ -1,0 +1,607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-donators\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-26 21:33+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ERIC WANG <eric.wzy@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: main.php:58
+msgid "Sponsors"
+msgstr ""
+
+#: main.php:61
+msgid "Option"
+msgstr ""
+
+#: main.php:62
+msgid "IPN Log"
+msgstr ""
+
+#: payment-manager.php:10
+#: report.php:8
+msgid "Configuration"
+msgstr ""
+
+#: payment-manager.php:14
+#: report.php:12
+msgid "You are not Options Manager &amp; hence you cannot configure <strong>WP-DONATORS</strong>. If you are admin, then please Logout &amp; Login again."
+msgstr ""
+
+#: payment-manager.php:19
+msgid "Access Denied"
+msgstr ""
+
+#: payment-manager.php:111
+msgid "WP-Donators-Configuration"
+msgstr ""
+
+#: payment-manager.php:117
+msgid "You can configure <strong>WP-Donators</strong> here. It's easy to configure payment setting.<br/>Since the plugin is developing, in the future it will support more payment features and most popular payment interface.<br/>If you find this plugin really useful and would like to contribute to the further development of this plugin, please do donate.All donators will get a link on the <strong><a href=\"http://www.ericbess.com/ericblog/?p=258\">WP-Donators Page</a></strong> and its daily 200 - 500 unique visitors."
+msgstr ""
+
+#: payment-manager.php:154
+msgid "System Depend On"
+msgstr ""
+
+#: payment-manager.php:169
+msgid "fsockopen PayPal connection success!"
+msgstr ""
+
+#: payment-manager.php:176
+msgid "General Option"
+msgstr ""
+
+#: payment-manager.php:185
+msgid "Admin Email."
+msgstr ""
+
+#: payment-manager.php:188
+msgid "WP-DONATIONS administrator email,System payment status log receiver mail."
+msgstr ""
+
+#: payment-manager.php:196
+msgid "Send payment log to admin."
+msgstr ""
+
+#: payment-manager.php:199
+msgid "When the payment happened, send the status log to admin mailbox."
+msgstr ""
+
+#: payment-manager.php:205
+msgid "Your PayPal Account"
+msgstr ""
+
+#: payment-manager.php:215
+msgid "PayPal Account Mail."
+msgstr ""
+
+#: payment-manager.php:218
+msgid "Your PayPal Account(mail address).If your haven't the paypal account so far.Please register paypal account here:"
+msgstr ""
+
+#: payment-manager.php:221
+msgid "PayPal Registration"
+msgstr ""
+
+#: payment-manager.php:228
+msgid "Use PayPal Sandbox."
+msgstr ""
+
+#: payment-manager.php:231
+msgid "It's sandbox account. You can apply a suit of sandbox accounts on <a href=\"https://developer.paypal.com/\" target=\"_blank\">Developer.PayPal</a> to test the plugin."
+msgstr ""
+
+#: payment-manager.php:236
+msgid "CNY(RMB) Account."
+msgstr ""
+
+#: payment-manager.php:239
+msgid "China PayPal Registration"
+msgstr ""
+
+#: payment-manager.php:240
+msgid "CHINA ACCOUNT, for CNYang(RMB) receive.<br/>If you havn't, please consider this opportunity to be donated to author(Keep Blank)."
+msgstr ""
+
+#: payment-manager.php:245
+#: payment-manager.php:247
+#: payment-manager.php:249
+#: payment-manager.php:251
+#: payment-manager.php:253
+#: payment-manager.php:255
+#: payment-manager.php:257
+#: payment-manager.php:259
+#: payment-manager.php:261
+#: payment-manager.php:263
+#: payment-manager.php:265
+#: payment-manager.php:267
+#: payment-manager.php:269
+#: payment-manager.php:271
+#: payment-manager.php:273
+#: payment-manager.php:275
+#: payment-manager.php:277
+#: payment-manager.php:279
+#: payment-manager.php:281
+#: payment-manager.php:283
+msgid " selected"
+msgstr " selected"
+
+#: payment-manager.php:245
+msgid "U.S. Dollars"
+msgstr ""
+
+#: payment-manager.php:247
+msgid "Australian Dollars"
+msgstr ""
+
+#: payment-manager.php:249
+msgid "British Pounds"
+msgstr ""
+
+#: payment-manager.php:251
+msgid "Canadian Dollars"
+msgstr ""
+
+#: payment-manager.php:253
+msgid "Czech Koruna"
+msgstr ""
+
+#: payment-manager.php:255
+msgid "Danish Kroner"
+msgstr ""
+
+#: payment-manager.php:257
+msgid "Euro"
+msgstr ""
+
+#: payment-manager.php:259
+msgid "Hong Kong Dollars"
+msgstr ""
+
+#: payment-manager.php:261
+msgid "Hungarian Forint"
+msgstr ""
+
+#: payment-manager.php:263
+msgid "Japanese Yen"
+msgstr ""
+
+#: payment-manager.php:265
+msgid "Mexican Peso"
+msgstr ""
+
+#: payment-manager.php:267
+msgid "New Zealand Dollars"
+msgstr ""
+
+#: payment-manager.php:269
+msgid "Norwegian Kroner"
+msgstr ""
+
+#: payment-manager.php:271
+msgid "Polish Zlotych"
+msgstr ""
+
+#: payment-manager.php:273
+msgid "Singapore Dollars"
+msgstr ""
+
+#: payment-manager.php:275
+msgid "Swedish Kronor"
+msgstr ""
+
+#: payment-manager.php:277
+msgid "Swiss Franc"
+msgstr ""
+
+#: payment-manager.php:279
+msgid "Taiwan Dollar"
+msgstr ""
+
+#: payment-manager.php:281
+msgid "Thai Baht"
+msgstr ""
+
+#: payment-manager.php:283
+msgid "Philippine Peso"
+msgstr ""
+
+#: payment-manager.php:284
+msgid "Primary Currency."
+msgstr ""
+
+#: payment-manager.php:285
+msgid "Let you receive money, without opening a currency balance."
+msgstr ""
+
+#: payment-manager.php:288
+msgid "Learn More"
+msgstr ""
+
+#: payment-manager.php:296
+msgid "Sponsor Option"
+msgstr ""
+
+#: payment-manager.php:305
+msgid "Minimum amount for a donation."
+msgstr ""
+
+#: payment-manager.php:308
+msgid "The minimum amount for a donation to get displayed.Set to a reasonable value for your currency and your website."
+msgstr ""
+
+#: payment-manager.php:314
+msgid "Sponsor link days."
+msgstr ""
+
+#: payment-manager.php:317
+msgid "How many days will a link be displayed."
+msgstr ""
+
+#: payment-manager.php:326
+msgid "LinkSize_Function."
+msgstr ""
+
+#: payment-manager.php:329
+msgid "This function calculates the link size in relation to the donation amount $x.It ensures that donations are not too tiny or large.Use it with the syntax of a PHP expression."
+msgstr ""
+
+#: payment-manager.php:335
+msgid "Sponsor link text size (max 64)."
+msgstr ""
+
+#: payment-manager.php:338
+msgid "The maximum Sponsor link text words size."
+msgstr ""
+
+#: payment-manager.php:348
+msgid "Nofollow Link."
+msgstr ""
+
+#: payment-manager.php:351
+msgid "If you are afraid of Google punishment, set this to \"checked\",if you apprechiate donations, do not."
+msgstr ""
+
+#: payment-manager.php:359
+msgid "Image Promotion"
+msgstr ""
+
+#: payment-manager.php:366
+msgid "Text Promotion"
+msgstr ""
+
+#: payment-manager.php:369
+msgid "Recommend people to register paypal account on your payment form.It will promote your earning."
+msgstr ""
+
+#: payment-manager.php:377
+msgid "Text AD Link Option"
+msgstr ""
+
+#: payment-manager.php:386
+msgid "Unit Price."
+msgstr ""
+
+#: payment-manager.php:389
+msgid "Default Text AD link unit price."
+msgstr ""
+
+#: payment-manager.php:395
+msgid "Display days /unit."
+msgstr ""
+
+#: payment-manager.php:398
+msgid "Default Text AD link display days per unit."
+msgstr ""
+
+#: payment-manager.php:406
+msgid "My Target Option"
+msgstr ""
+
+#: payment-manager.php:415
+msgid "My Target Price."
+msgstr ""
+
+#: payment-manager.php:418
+msgid "Default My Target price."
+msgstr ""
+
+#: payment-manager.php:426
+msgid "Configuration Complete"
+msgstr ""
+
+#: payment-manager.php:430
+msgid "Update Options"
+msgstr ""
+
+#: payment-manager.php:433
+msgid "Reset"
+msgstr ""
+
+#: report.php:20
+msgid "IPN LOG"
+msgstr ""
+
+#: report.php:27
+msgid "NO LOG So Far"
+msgstr ""
+
+#: sponsor.php:14
+msgid "The Page SPONSORED BY"
+msgstr ""
+
+#: sponsor.php:15
+msgid "Become SPONSOR Now"
+msgstr ""
+
+#: sponsor.php:20
+msgid "SPONSORED"
+msgstr ""
+
+#: sponsor.php:21
+#: wp-donators.php:65
+msgid "Donate"
+msgstr ""
+
+#: sponsor.php:34
+msgid "HELP"
+msgstr ""
+
+#: sponsor.php:36
+msgid "This a wordpress plugin"
+msgstr ""
+
+#: sponsor.php:36
+msgid "It provides a smart donation function to autoleave the sponsor information in this container after payment. People can donate and submit name/URL or TextLink AD. The information of the latest donors are displayed in the cloud. The more a person donates, the bigger their link will be.It's will support most popular payment interface in future. ParPal Just the first one."
+msgstr ""
+
+#: sponsor.php:60
+msgid "Buy This Text ADs Link!"
+msgstr ""
+
+#: sponsor.php:66
+msgid "Your AD Link Name"
+msgstr ""
+
+#: sponsor.php:67
+msgid "Your AD Link URL"
+msgstr ""
+
+#: sponsor.php:68
+msgid "Your AD Description"
+msgstr ""
+
+#: sponsor.php:69
+#: sponsor.php:298
+msgid "Amount"
+msgstr ""
+
+#: sponsor.php:72
+#: sponsor.php:159
+#: sponsor.php:301
+msgid "USD"
+msgstr ""
+
+#: sponsor.php:73
+#: sponsor.php:93
+#: sponsor.php:179
+#: sponsor.php:321
+msgid "RMB"
+msgstr ""
+
+#: sponsor.php:74
+#: sponsor.php:160
+#: sponsor.php:302
+msgid "AUD"
+msgstr ""
+
+#: sponsor.php:75
+#: sponsor.php:161
+#: sponsor.php:303
+msgid "GBP"
+msgstr ""
+
+#: sponsor.php:76
+#: sponsor.php:162
+#: sponsor.php:304
+msgid "CAD"
+msgstr ""
+
+#: sponsor.php:77
+#: sponsor.php:163
+#: sponsor.php:305
+msgid "CZK"
+msgstr ""
+
+#: sponsor.php:78
+#: sponsor.php:164
+#: sponsor.php:306
+msgid "DKK"
+msgstr ""
+
+#: sponsor.php:79
+#: sponsor.php:165
+#: sponsor.php:307
+msgid "EUR"
+msgstr ""
+
+#: sponsor.php:80
+#: sponsor.php:166
+#: sponsor.php:308
+msgid "HKD"
+msgstr ""
+
+#: sponsor.php:81
+#: sponsor.php:167
+#: sponsor.php:309
+msgid "HUF"
+msgstr ""
+
+#: sponsor.php:82
+#: sponsor.php:168
+#: sponsor.php:310
+msgid "JPY"
+msgstr ""
+
+#: sponsor.php:83
+#: sponsor.php:169
+#: sponsor.php:311
+msgid "MXN"
+msgstr ""
+
+#: sponsor.php:84
+#: sponsor.php:170
+#: sponsor.php:312
+msgid "NZD"
+msgstr ""
+
+#: sponsor.php:85
+#: sponsor.php:171
+#: sponsor.php:313
+msgid "NOK"
+msgstr ""
+
+#: sponsor.php:86
+#: sponsor.php:172
+#: sponsor.php:314
+msgid "PLN"
+msgstr ""
+
+#: sponsor.php:87
+#: sponsor.php:173
+#: sponsor.php:315
+msgid "SGD"
+msgstr ""
+
+#: sponsor.php:88
+#: sponsor.php:174
+#: sponsor.php:316
+msgid "SEK"
+msgstr ""
+
+#: sponsor.php:89
+#: sponsor.php:175
+#: sponsor.php:317
+msgid "CHF"
+msgstr ""
+
+#: sponsor.php:90
+#: sponsor.php:176
+#: sponsor.php:318
+msgid "TWD"
+msgstr ""
+
+#: sponsor.php:91
+#: sponsor.php:177
+#: sponsor.php:319
+msgid "THB"
+msgstr ""
+
+#: sponsor.php:92
+#: sponsor.php:178
+#: sponsor.php:320
+msgid "PHP"
+msgstr ""
+
+#: sponsor.php:108
+msgid "dollars"
+msgstr ""
+
+#: sponsor.php:108
+msgid "days"
+msgstr ""
+
+#: sponsor.php:109
+#: sponsor.php:337
+msgid "Fill out the form, click \"PayPal\" button, you're on your way!"
+msgstr ""
+
+#: sponsor.php:151
+msgid "Name Or TextAds:"
+msgstr ""
+
+#: sponsor.php:153
+msgid "Your URL:"
+msgstr ""
+
+#: sponsor.php:155
+msgid "Amount:"
+msgstr ""
+
+#: sponsor.php:197
+msgid " dollar donations or more will appear in the Sponsored cloud. More donations, bigger Link!There is the option of having your name link to a site of your choosing. Simply fill out the form, click the PayPal button and you're on your way!"
+msgstr ""
+
+#: sponsor.php:240
+msgid "No donations within the last "
+msgstr ""
+
+#: sponsor.php:240
+msgid " days.Who make donation will leave message at here."
+msgstr ""
+
+#: sponsor.php:240
+msgid "Donate Now"
+msgstr ""
+
+#: sponsor.php:265
+msgid "No Text AD Link within the last days, you can buy the advertising link!"
+msgstr ""
+
+#: sponsor.php:266
+msgid "Buy The AD link"
+msgstr ""
+
+#: sponsor.php:288
+msgid "Support This Target!"
+msgstr ""
+
+#: sponsor.php:295
+msgid "Sponsor Name"
+msgstr ""
+
+#: sponsor.php:296
+msgid "Sponsor URL"
+msgstr ""
+
+#: sponsor.php:297
+msgid "Sponsor Comment"
+msgstr ""
+
+#: sponsor.php:336
+msgid "(My Target"
+msgstr ""
+
+#: sponsor.php:336
+msgid " dollars/"
+msgstr ""
+
+#: sponsor.php:336
+#, php-format
+msgid "% completed)"
+msgstr ""
+
+#: sponsor.php:363
+msgid "Support My Target ("
+msgstr ""
+
+#: sponsor.php:363
+msgid " Dollars Needed/"
+msgstr ""
+
+#: sponsor.php:363
+msgid "% Completed)"
+msgstr ""
+
+#: wp-donators.php:55
+msgid "Settings"
+msgstr ""
+
